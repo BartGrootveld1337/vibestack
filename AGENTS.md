@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Next.js 15 + Supabase full-stack template optimized for AI-assisted development (vibe-coden).
+Next.js 16 + Supabase full-stack template optimized for AI-assisted development (vibe-coden).
 This template provides a production-ready foundation with authentication, database, and modern tooling.
 
 ## Quick Start
@@ -29,7 +29,7 @@ pnpm dev            # Start development server at http://localhost:3000
 ## Architecture
 
 ### Stack
-- **Framework**: Next.js 15 with App Router
+- **Framework**: Next.js 16 with App Router
 - **Database**: Supabase (PostgreSQL + Auth + Storage)
 - **Styling**: Tailwind CSS 4
 - **Language**: TypeScript (strict mode)

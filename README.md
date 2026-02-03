@@ -1,6 +1,6 @@
 # ⚡ Vibe Coding Template
 
-A modern full-stack template with **Next.js 15** and **Supabase**, optimized for AI-assisted development.
+A modern full-stack template with **Next.js 16** and **Supabase**, optimized for AI-assisted development.
 
 [![CI](https://github.com/YOUR_USERNAME/vibe-coding-template/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/vibe-coding-template/actions/workflows/ci.yml)
 
@@ -20,7 +20,7 @@ Open [http://localhost:3000](http://localhost:3000) to see your app.
 
 ## ✨ Features
 
-- **⚡ Next.js 15** — App Router, Server Components, Turbopack
+- **⚡ Next.js 16** — App Router, Server Components, Turbopack
 - **🔐 Authentication** — Email/password + OAuth (Google, GitHub)
 - **🗄️ Database** — PostgreSQL via Supabase with type-safe queries
 - **🎨 Styling** — Tailwind CSS 4 + shadcn/ui components

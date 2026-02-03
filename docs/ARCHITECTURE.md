@@ -7,7 +7,7 @@ This document explains the architectural decisions and patterns used in this tem
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                      Frontend                           │
-│  Next.js 15 (App Router) + React 19 + TypeScript       │
+│  Next.js 16 (App Router) + React 19 + TypeScript       │
 │  Tailwind CSS + shadcn/ui                              │
 └─────────────────────────────────────────────────────────┘
                            │
@@ -29,7 +29,7 @@ This document explains the architectural decisions and patterns used in this tem
 
 ## Why These Choices?
 
-### Next.js 15 with App Router
+### Next.js 16 with App Router
 
 - **Server Components by default** — Better performance, simpler data fetching
 - **Built-in API routes** — No separate backend needed
